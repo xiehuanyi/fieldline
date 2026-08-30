@@ -26,6 +26,14 @@ disclosure norm).
   fictional +1-555-01xx numbers.
 - Drafted all docs: README, idea brief, plan, this file, submission
   copy, video script, submit checklist.
+- Produced the demo video (`docs/video.mp4`) and gallery screenshots
+  (`docs/img/`): captured real CLI output, replayed it in a styled
+  terminal page, recorded headless, and assembled with ffmpeg. The
+  voiceover is **synthetic TTS** (Microsoft Edge neural TTS, voice
+  en-US-AndrewNeural) reading the narration in
+  `docs/video-narration.md` — it is not the author's voice. All calls
+  shown are demo-mode simulations, labeled as such on screen and in
+  the narration.
 
 ## What AI did NOT do
 

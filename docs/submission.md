@@ -13,7 +13,7 @@ argues Most Innovative.
 | PR URL (required) | `<AWESOME_PR_URL>` — see docs/submit-checklist.md |
 | Video URL (required) | `<YOUTUBE_URL>` (public, <3 min) |
 | CALL-E account email (required) | `<CALLE_ACCOUNT_EMAIL>` |
-| Demo URL (optional) | leave blank (local CLI) or `<REPO_URL>` |
+| Demo URL (optional) | leave blank (local CLI) or `https://github.com/xiehuanyi/fieldline` |
 | Built with (tags) | python, uv, calle-ai, call-e, rich, pyyaml, pytest |
 
 ---
@@ -133,7 +133,7 @@ src/, tests/, examples/, scripts/ — no internal hackathon docs).
 `- [Project Name](url) - One sentence…`):
 
 ```markdown
-- [FieldLine](https://github.com/<GITHUB_USER>/fieldline) - Lone-worker safety net that schedules check-in calls, detects a silent duress phrase, and runs an escalation call cascade ending in a structured incident brief.
+- [FieldLine](https://github.com/xiehuanyi/fieldline) - Lone-worker safety net that schedules check-in calls, detects a silent duress phrase, and runs an escalation call cascade ending in a structured incident brief.
 ```
 
 **Repo checklist compliance** (their CONTRIBUTING requirements):
