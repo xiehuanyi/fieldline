@@ -8,6 +8,10 @@ disclosure norm).
 - **Claude (Anthropic) via an agentic coding CLI** — research, design,
   and code generation for the entire project, directed and reviewed by
   the author (Huanyi Xie).
+- **OpenAI Codex** — submission audit and shipping assistance on
+  2026-09-05, including repository validation, preparing the official
+  repository contribution, and opening the pull request at the
+  author's request.
 
 ## What AI did (2026-08-31 session)
 
@@ -35,13 +39,20 @@ disclosure norm).
   shown are demo-mode simulations, labeled as such on screen and in
   the narration.
 
+## What AI did later (2026-09-05 shipping session)
+
+- OpenAI Codex copied the public app files into a fork of
+  `CALLE-AI/awesome-phone-call-agents`, added the catalog entries, ran
+  32 tests and the official repository validator, and opened PR #312.
+- OpenAI Codex assisted with Devpost registration and submission forms
+  at the author's explicit request.
+
 ## What AI did NOT do
 
 - No real phone calls were placed (no CALL-E account existed during the
   build; live mode is implemented against the real SDK but unverified
   end-to-end until the author runs `fieldline checkin-now`).
-- No git operations, deployment, or submissions — all performed by the
-  author.
+- No deployment was created. No real phone call was placed by AI.
 
 ## Simulated vs real (for judges who ask)
 
